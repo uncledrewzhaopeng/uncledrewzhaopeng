@@ -35,7 +35,6 @@ i am also an open-source enthusiast. i learned a lot from the open-source commun
 JavaScript   4 hrs 44 mins   ███████████▓░░░░░░░░░░░░░   47.07 %
 HTML         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
 Less         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-TypeScript   4 hrs 49 mins   ████████████░░░░░░░░░░░░░   27.87 %
 JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 ```
 
