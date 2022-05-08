@@ -1,3 +1,4 @@
+![](https://github.com/uncledrewzhaopeng/uncledrewzhaopeng/blob/main/icons/header_1.png)
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.instagram.com/eddiepenggg__/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -11,7 +12,7 @@ hi, i'm [Eddie](http://106.55.14.44/), my passion for software lies with dreamin
 i am also an open-source enthusiast. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/uncledrewzhaopeng/uncledrewzhaopeng/blob/main/icons/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:pengweb_job@163.com) :)
 - 💬 ask me about anything, i am happy to help;
