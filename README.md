@@ -1,4 +1,4 @@
-### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ![](https://github.com/uncledrewzhaopeng/uncledrewzhaopeng/blob/main/icons/header_1.png)
 
