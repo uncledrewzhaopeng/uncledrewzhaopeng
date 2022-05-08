@@ -20,7 +20,8 @@ i am also an open-source enthusiast. i learned a lot from the open-source commun
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -31,11 +32,11 @@ i am also an open-source enthusiast. i learned a lot from the open-source commun
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   4 hrs 49 mins   ████████████░░░░░░░░░░░░░   47.87 %
 JavaScript   4 hrs 44 mins   ███████████▓░░░░░░░░░░░░░   47.07 %
 HTML         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
-JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 Less         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+TypeScript   4 hrs 49 mins   ████████████░░░░░░░░░░░░░   27.87 %
+JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 ```
 
 <!--END_SECTION:waka-->
