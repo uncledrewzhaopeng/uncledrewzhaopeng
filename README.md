@@ -10,7 +10,7 @@ hi, i'm [Eddie](http://106.55.14.44/), my passion for software lies with dreamin
 i am also an open-source enthusiast. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/uncledrewzhaopeng/uncledrewzhaopeng/blob/main/icons/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/uncledrewzhaopeng/uncledrewzhaopeng/blob/main/icons/code.gif?raw=true" width="400" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:pengweb_job@163.com) :)
 - 💬 ask me about anything, i am happy to help;
