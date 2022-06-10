@@ -26,16 +26,6 @@ i am also an open-source enthusiast. i learned a lot from the open-source commun
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-JavaScript   4 hrs 44 mins   ███████████▓░░░░░░░░░░░░░   47.07 %
-HTML         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
-Less         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-```
-
 <!--END_SECTION:waka-->
 
 📈 my github stats
