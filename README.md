@@ -25,4 +25,4 @@ i am also an open-source enthusiast. i learned a lot from the open-source commun
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=uncledrewzhaopeng&show_icons=true&theme=gotham" alt="uncledrewzhaopeng" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=uncledrewzhaopeng&show_icons=true&theme=buefy" alt="uncledrewzhaopeng" />
